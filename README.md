@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dev-deepakkumar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-deepakkumar/) 
 [![LinkedIn](https://img.shields.io/badge/Hackerrank-%230077B5.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kumardk8780) 
 
 
